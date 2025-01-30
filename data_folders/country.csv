@@ -1,0 +1,93 @@
+Three_Letter_Country_Code,Continent_Name,Country_Name
+USA,North America,Country_USA
+CAN,North America,Country_CAN
+MEX,North America,Country_MEX
+BHS,North America,Country_BHS
+CIV,North America,Country_CIV
+PAN,North America,Country_PAN
+JAM,North America,Country_JAM
+TTO,North America,Country_TTO
+CYM,North America,Country_CYM
+EST,Europe,Country_EST
+GBR,Europe,Country_GBR
+DEU,Europe,Country_DEU
+FRA,Europe,Country_FRA
+ROM,Europe,Country_ROM
+NLD,Europe,Country_NLD
+SWE,Europe,Country_SWE
+DNK,Europe,Country_DNK
+IRL,Europe,Country_IRL
+ITA,Europe,Country_ITA
+ESP,Europe,Country_ESP
+BEL,Europe,Country_BEL
+CZE,Europe,Country_CZE
+CHE,Europe,Country_CHE
+HUN,Europe,Country_HUN
+FIN,Europe,Country_FIN
+NOR,Europe,Country_NOR
+LTU,Europe,Country_LTU
+AUT,Europe,Country_AUT
+ISL,Europe,Country_ISL
+BGR,Europe,Country_BGR
+HRV,Europe,Country_HRV
+SVK,Europe,Country_SVK
+LUX,Europe,Country_LUX
+MDA,Europe,Country_MDA
+SRB,Europe,Country_SRB
+SVN,Europe,Country_SVN
+LIE,Europe,Country_LIE
+GIB,Europe,Country_GIB
+HKG,Asia,Country_HKG
+CHN,Asia,Country_CHN
+IND,Asia,Country_IND
+SGP,Asia,Country_SGP
+ISR,Asia,Country_ISR
+THA,Asia,Country_THA
+RUS,Asia,Country_RUS
+KOR,Asia,Country_KOR
+TWN,Asia,Country_TWN
+JPN,Asia,Country_JPN
+VNM,Asia,Country_VNM
+PHL,Asia,Country_PHL
+IDN,Asia,Country_IDN
+LBN,Asia,Country_LBN
+KHM,Asia,Country_KHM
+ARE,Asia,Country_ARE
+PAK,Asia,Country_PAK
+TUR,Asia,Country_TUR
+ARM,Asia,Country_ARM
+UZB,Asia,Country_UZB
+OMN,Asia,Country_OMN
+KWT,Asia,Country_KWT
+LAO,Asia,Country_LAO
+BGD,Asia,Country_BGD
+MMR,Asia,Country_MMR
+BHR,Asia,Country_BHR
+ARG,South America,Country_ARG
+CHL,South America,Country_CHL
+BRA,South America,Country_BRA
+COL,South America,Country_COL
+PER,South America,Country_PER
+ECU,South America,Country_ECU
+URY,South America,Country_URY
+NGA,Africa,Country_NGA
+ZAF,Africa,Country_ZAF
+GHA,Africa,Country_GHA
+EGY,Africa,Country_EGY
+DZA,Africa,Country_DZA
+TUN,Africa,Country_TUN
+TZA,Africa,Country_TZA
+KEN,Africa,Country_KEN
+CMR,Africa,Country_CMR
+MAR,Africa,Country_MAR
+ZWE,Africa,Country_ZWE
+SOM,Africa,Country_SOM
+UGA,Africa,Country_UGA
+AUS,Oceania,Country_AUS
+NZL,Oceania,Country_NZL
+FJI,Oceania,
+MAF,Others,Country_MAF
+BMU,Others,Country_BMU
+MLT,Others,Country_MLT
+SYC,Others,Country_SYC
+MKD,Others,Country_MKD
